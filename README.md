@@ -24,6 +24,6 @@ The UI framework, storage format, credential handling and Windows support have n
 
 See [LICENSE](LICENSE), which contains the GNU GPL version 3 text.
 
-## Development and AI assistance
+## Documentation
 
-The default-branch history includes contributions explicitly attributed to GitHub Copilot ([example](https://github.com/ProfessorEngineergit/SSHmanager/commit/410c962a9b9f7ac6b9eff303428d421a3df75eab)). This documents AI involvement in those contributions; it does not establish the origin of every line or independent validation. Existing author, co-author and session records are retained.
+GitHub Copilot contributed to the documentation ([record](https://github.com/ProfessorEngineergit/SSHmanager/commit/3a76518810311205e9c89489cd7358646234b842)). This does not establish AI-generated application code.
